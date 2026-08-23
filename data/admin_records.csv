@@ -1,0 +1,16 @@
+customer_name,age,gender,monthly_salary,credit_score,emi_scenario,requested_amount,requested_tenure,emi_eligibility
+Customer 1,38,Female,82600.0,660,Personal Loan EMI,850000.0,15,Not_Eligible
+Customer 2,38,Female,21500.0,714,E-commerce Shopping EMI,128000.0,19,Not_Eligible
+Customer 3,38,Male,86100.0,650,Education EMI,306000.0,16,Eligible
+Customer 4,58,Female,66800.0,685,Vehicle EMI,304000.0,83,Eligible
+Customer 5,48,Female,57300.0,770,Home Appliances EMI,252000.0,7,Not_Eligible
+Customer 6,38,Male,38800.0,792,Vehicle EMI,1257000.0,53,Not_Eligible
+Customer 7,58,Male,27100.0,741,Home Appliances EMI,280000.0,11,Not_Eligible
+Customer 8,58,Female,392044.0,623,E-commerce Shopping EMI,153000.0,12,Not_Eligible
+Customer 9,58,Female,47700.0,712,E-commerce Shopping EMI,106000.0,14,Not_Eligible
+Customer 10,32,female,129200.0,681,E-commerce Shopping EMI,81000.0,3,Not_Eligible
+Customer 11,32,Female,58600.0,791,Vehicle EMI,518000.0,77,Not_Eligible
+Customer 12,38,Female,47000.0,560,Personal Loan EMI,650000.0,41,Not_Eligible
+Customer 13,32,male,11837.0,695,E-commerce Shopping EMI,30000.0,12,Eligible
+Customer 14,48,Male,53900.0,691,Home Appliances EMI,221000.0,15,Not_Eligible
+Customer 15,27,Female,110800.0,788,E-commerce Shopping EMI,83000.0,21,Eligible

@@ -16,3 +16,4 @@ for col in cols_to_check:
     print(non_numeric.value_counts().head(20))
     print(f"\nTotal non-numeric rows in {col}: {non_numeric.shape[0]}")
     print()
+    
