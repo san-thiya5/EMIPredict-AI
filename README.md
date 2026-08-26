@@ -2,7 +2,7 @@
 
 A FinTech risk-assessment platform that predicts EMI (installment loan) eligibility and affordability using machine learning, built as a 14-day capstone project.
 
-**Live app:** [EMIPredict AI on Streamlit Cloud](https://emipredict-ai-csrtuu3bqdto8dj5ket4jn.streamlit.app/) 
+**Live app:** [EMIPredict AI on Streamlit Cloud](https://san-emipredict-ai-26.streamlit.app/)
 
 ## What it does
 
